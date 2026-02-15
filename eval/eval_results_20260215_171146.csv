@@ -1,0 +1,4 @@
+query_id,query,mode,status,verification_status,summary_length,summary_chars,action_items_count,sources_count,latency_seconds,tokens_used,error_count,hallucinations,missing_evidence,agents_executed
+Q1,What are the best practices for hand hygiene in healthcare settings?,executive,SUCCESS,ISSUES_FOUND,123,1093,5,1,74.09,12597,0,0,12,4
+Q2,How can hospitals reduce healthcare-associated pneumonia infections?,analyst,SUCCESS,ISSUES_FOUND,121,1045,5,5,70.99,12201,0,0,6,4
+Q3,What are evidence-based strategies for preventing C. difficile infections in hospitals?,executive,SUCCESS,ISSUES_FOUND,123,1041,5,6,75.06,12147,0,19,15,4

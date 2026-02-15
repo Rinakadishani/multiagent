@@ -1,0 +1,62 @@
+[
+  {
+    "id": "Q1",
+    "query": "What are the best practices for hand hygiene in healthcare settings?",
+    "expected_topics": ["hand washing", "alcohol-based sanitizers", "compliance"],
+    "mode": "executive"
+  },
+  {
+    "id": "Q2",
+    "query": "How can hospitals reduce healthcare-associated pneumonia infections?",
+    "expected_topics": ["prevention protocols", "ventilator management", "patient safety"],
+    "mode": "analyst"
+  },
+  {
+    "id": "Q3",
+    "query": "What are evidence-based strategies for preventing C. difficile infections in hospitals?",
+    "expected_topics": ["isolation procedures", "environmental cleaning", "antibiotic stewardship"],
+    "mode": "executive"
+  },
+  {
+    "id": "Q4",
+    "query": "What infection control measures are recommended for neonatal intensive care units?",
+    "expected_topics": ["NICU protocols", "barrier precautions", "isolation"],
+    "mode": "analyst"
+  },
+  {
+    "id": "Q5",
+    "query": "How should hospitals implement enhanced barrier precautions for infection control?",
+    "expected_topics": ["PPE requirements", "patient isolation", "staff training"],
+    "mode": "executive"
+  },
+  {
+    "id": "Q6",
+    "query": "What are the key metrics for measuring hand hygiene compliance among healthcare workers?",
+    "expected_topics": ["compliance rates", "monitoring methods", "improvement strategies"],
+    "mode": "analyst"
+  },
+  {
+    "id": "Q7",
+    "query": "What environmental cleaning protocols are most effective for reducing hospital infections?",
+    "expected_topics": ["disinfection methods", "cleaning frequency", "high-touch surfaces"],
+    "mode": "executive"
+  },
+  {
+    "id": "Q8",
+    "query": "How can hospitals improve antibiotic stewardship to prevent resistant infections?",
+    "expected_topics": ["prescribing guidelines", "monitoring programs", "education"],
+    "mode": "analyst"
+  },
+  {
+    "id": "Q9",
+    "query": "What isolation precautions should be used for patients with multidrug-resistant organisms?",
+    "expected_topics": ["contact precautions", "room assignment", "PPE protocols"],
+    "mode": "executive"
+  },
+  {
+    "id": "Q10",
+    "query": "What are the cost-effectiveness and ROI of comprehensive infection prevention programs?",
+    "expected_topics": ["cost savings", "reduced infections", "implementation costs"],
+    "mode": "analyst"
+  }
+]

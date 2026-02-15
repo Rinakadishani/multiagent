@@ -1,0 +1,11 @@
+query_id,query,mode,status,verification_status,summary_length,summary_chars,action_items_count,sources_count,latency_seconds,tokens_used,error_count,hallucinations,missing_evidence,agents_executed
+Q1,What are the best practices for hand hygiene in healthcare settings?,executive,SUCCESS,ISSUES_FOUND,124,1028,5,1,0,0,0,24,17,0
+Q2,How can hospitals reduce healthcare-associated pneumonia infections?,analyst,SUCCESS,ISSUES_FOUND,130,1029,5,4,0,0,0,0,15,0
+Q3,What are evidence-based strategies for preventing C. difficile infections in hospitals?,executive,SUCCESS,ISSUES_FOUND,126,1105,5,7,0,0,0,7,5,0
+Q4,What infection control measures are recommended for neonatal intensive care units?,analyst,SUCCESS,ISSUES_FOUND,94,801,5,4,0,0,0,11,16,0
+Q5,How should hospitals implement enhanced barrier precautions for infection control?,executive,SUCCESS,ISSUES_FOUND,123,1011,5,3,0,0,0,0,16,0
+Q6,What are the key metrics for measuring hand hygiene compliance among healthcare workers?,analyst,SUCCESS,ISSUES_FOUND,131,1040,5,2,0,0,0,16,13,0
+Q7,What environmental cleaning protocols are most effective for reducing hospital infections?,executive,SUCCESS,ISSUES_FOUND,121,1077,5,3,0,0,0,0,0,0
+Q8,How can hospitals improve antibiotic stewardship to prevent resistant infections?,analyst,SUCCESS,ISSUES_FOUND,115,1022,5,5,0,0,0,13,3,0
+Q9,What isolation precautions should be used for patients with multidrug-resistant organisms?,executive,SUCCESS,ISSUES_FOUND,131,1078,5,3,0,0,0,19,11,0
+Q10,What are the cost-effectiveness and ROI of comprehensive infection prevention programs?,analyst,SUCCESS,ISSUES_FOUND,128,1079,5,6,0,0,0,14,8,0

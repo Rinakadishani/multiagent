@@ -1,0 +1,32 @@
+[
+  {
+    "id": "Q1",
+    "query": "What are the best practices for hand hygiene in healthcare settings?",
+    "expected_topics": [
+      "hand washing",
+      "alcohol-based sanitizers",
+      "compliance"
+    ],
+    "mode": "executive"
+  },
+  {
+    "id": "Q2",
+    "query": "How can hospitals reduce healthcare-associated pneumonia infections?",
+    "expected_topics": [
+      "prevention protocols",
+      "ventilator management",
+      "patient safety"
+    ],
+    "mode": "analyst"
+  },
+  {
+    "id": "Q3",
+    "query": "What are evidence-based strategies for preventing C. difficile infections in hospitals?",
+    "expected_topics": [
+      "isolation procedures",
+      "environmental cleaning",
+      "antibiotic stewardship"
+    ],
+    "mode": "executive"
+  }
+]
